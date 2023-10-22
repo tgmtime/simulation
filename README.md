@@ -108,3 +108,19 @@ CREATE TABLE `iot_entity` (
 ) ENGINE=InnoDB AUTO_INCREMENT=2 DEFAULT CHARSET=utf8mb4;
 
 
+
+
+ Endüstri 4.0, Yapay zeka, bulut sistemler, big data gibi teknolojilerin kullanıldığı veriler
+ile oluşturulan ve kullanılan bir devrimdir. Endüstri 5.0 ise insanların yaşam kalitesini 
+arttırmak için süper toplumların oluşmasına katkıda bulunan bir ileri teknolojik devrimdir.
+
+
+ Endüstri 4.0 temel olarak bir işin nasıl daha iyi yapıldığıyla ilgilenirken, Endüstri 5.0 ise yapılan 
+işin zaman – insan ilişkisi içerisinde nasıl en verimli hale getirileceği ile ilgilenir. Endüstri 4.0 
+otomatikleşen makinelerin kullanımını yaygınlaştırırken ve bunu ilke olarak edinirken, Endüstri 5.0 ise 
+insan – makine arasında hızlıca öğrenen bir yapı kurmayı amaç edinir ve bu sayede problemin çözümü için 
+en optimum durumu arar.
+
+
+
+1- case
