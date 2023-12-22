@@ -33,7 +33,7 @@ var thresholds = map[string]int{
 }
 
 func main() {
-	db, err := sql.Open("mysql", "egitimbu_night:G5CDf9}!Ow?7@tcp(85.95.237.110:3306)/egitimbu_nightwatch?charset=utf8mb4")
+	db, err := sql.Open("mysql", "......")
 	if err != nil {
 		fmt.Println(err)
 		return
