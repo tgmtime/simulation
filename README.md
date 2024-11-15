@@ -46,11 +46,11 @@ device_tag:"electric"   iot_value: 960 ~ 1015 arasında bir değer alır ve iot_
 }
 
       type: 'mysql',
-      host: '85.95.237.110',
+      host: '**.**.***.***',
       port: 3306,
       username: 'egitimbu_night',
       database: 'egitimbu_nightwatch',
-      password: 'G5CDf9}!Ow?7'
+      password: '*****'
 
 
 bu şekilde oluşturulmuş table her 5 sn de bir totalde 12 divece belirtilen prosüdürlerde tabloya insert eden kodu oluşturur musun golang de 
@@ -82,11 +82,11 @@ iot_value_type: "kWh" }
 
 db_connection:{
     type: 'mysql',
-      host: '85.95.237.110',
+      host: '**.**.***.***',
       port: 3306,
       username: 'egitimbu_night',
       database: 'egitimbu_nightwatch',
-      password: 'G5CDf9}!Ow?7'
+      password: '*****'
 }
 
 CREATE TABLE `iot_entity` (
